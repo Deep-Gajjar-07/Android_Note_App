@@ -13,5 +13,5 @@ The app allows users to create, edit, and delete notes easily with a clean inter
 - 📱 Simple and responsive UI  
 - 💾 Data stored locally on the device
 
-![notes_app_2](https://github.com/user-attachments/assets/a51f2c1a-afbc-4535-aa92-14d1c8f8ed01)
-![notes_app_1](https://github.com/user-attachments/assets/8da723b9-f7bd-4da4-975e-e46133694086)
+<img width="200" height="600" alt="img1" src="https://github.com/user-attachments/assets/7a958d2e-d529-4781-a255-f1e1f6549024"/>
+<img width="200" height="600" alt="img2" src="https://github.com/user-attachments/assets/05ff12c1-7fe3-488b-8e81-70d8e1c8936b"/>
